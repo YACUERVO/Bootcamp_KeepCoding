@@ -1,0 +1,31 @@
+#Ignorar archivos temporales 
+*.tmp 
+#Ignorar archivos de compilación 
+/__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd
+# Ignorar archivos de entorno virtual 
+venv/ 
+env/ 
+.env/
+/venv
+*.venv/
+*venv/ 
+
+# Ignorar archivos de configuración de editores 
+*.swp 
+*.swo 
+# Ignorar archivos de IDE 
+.vscode/ 
+.idea/ 
+# Ignorar archivos de logs 
+*.log 
+*.sqlite3
+.cache/
+*.egg-info/
+# Jupyter Notebooks
+.ipynb_checkpoints/
+# Archivos del sistema
+.DS_Store
+Thumbs.db

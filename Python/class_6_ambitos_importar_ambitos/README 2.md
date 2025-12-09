@@ -1,0 +1,1 @@
+# Importar ámbitos externos mediante `import`
